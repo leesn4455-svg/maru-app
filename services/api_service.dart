@@ -63,4 +63,15 @@ class ApiService {
       return result['status'] == 'success';
     } catch (e) { return false; }
   }
+
+  // 🌟 [추가됨] 앱에서 내 스케줄 가져오기 API
+  static Future<List<dynamic>> getSchedules(String userId) async {
+    try {
+      final response = await http.get(Uri.parse('$baseUrl?action=get_schedules&user_id=$userId'));
+      if (response.statusCode == 200) {
+        return json.decode(response.body);
+      }
+      return [];
+    } catch (e) { return []; }
+  }
 }
