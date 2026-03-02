@@ -1,0 +1,190 @@
+ Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+
+Variant: release
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :file_picker:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :flutter_local_notifications:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :flutter_native_splash:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :gal:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :image_picker_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :printing:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :share_plus:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
+----------
+
+> Task :url_launcher_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\leesn\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 28:6A:D3:2C:18:EB:6A:99:AA:AE:90:45:6B:48:BE:2C
+SHA1: C7:F4:CD:9E:92:62:C9:C1:BF:03:57:67:86:BC:4E:BF:04:13:E9:8D
+SHA-256: 0E:8D:D6:0C:CB:F9:2E:2F:BE:4E:67:6B:A8:AA:15:D4:36:71:64:E3:48:1C:BA:C0:9A:0B:60:8B:44:A9:93:07
+Valid until: 2056년 2월 8일 화요일
